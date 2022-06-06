@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "shivam",
+      "age": 15,
+      "username": "shivam",
+      "password": "5234",
+      "role": "voter",
+      "id": "5fa78f9f-ad53-40e2-b25f-50cbaa52444b",
+      "token": "0bcccf96-fff5-4d08-a1cc-fabc879c86db"
+    }
+  ]
+}
